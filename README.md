@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩‍💻 Hey, I'm Jeyashree!
 
-<!--
-**Dev-Jeyashree/Dev-Jeyashree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science Graduate | Aspiring Full Stack Developer  
+💡 Currently working through my self-built **80-Day Full Stack MNC Developer Roadmap**
 
-Here are some ideas to get you started:
+🔨 Technologies I'm mastering:
+- Core Java + Advanced Java
+- Spring Boot + REST APIs + JWT Auth
+- HTML + CSS + JavaScript + React
+- MySQL + JDBC + Hibernate
+- Microservices, Docker, AWS, CI/CD
+- System Design + DSA + Competitive Coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 My mission is to crack interviews at top MNCs like **TCS, Zoho, Infosys, HCL** and become a high-performing product-based developer.
+
+🚀 I'm sharing **daily progress and mini projects** from my roadmap — feel free to fork my journey, collaborate, or follow along!
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/dev-jeyashree/)  
+📍 India | #RoadToMNC | #JavaFullStack | #DevJeyashree
